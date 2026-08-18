@@ -25,11 +25,3 @@ $ whoami --format=json
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </div>
-
-<br>
-
-<div align="center">
-
-![status](https://img.shields.io/badge/status-online-38BDF8?style=flat-square&labelColor=0d1117)
-
-</div>
