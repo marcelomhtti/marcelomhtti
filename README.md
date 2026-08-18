@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1800&color=38BDF8&center=true&vCenter=true&width=600&lines=Observabilidade%20%26%20Automa%C3%A7%C3%A3o%20de%20Infraestrutura;Zabbix%20%C2%B7%20Grafana%20%C2%B7%20n8n%20%C2%B7%20Docker" alt="typing animation" />
+<img src="assets/log-scroll.svg" alt="log scrolando pela stack" />
 
 </div>
 
