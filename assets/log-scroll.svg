@@ -14,38 +14,39 @@
 
   <g clip-path="url(#logClip)">
     <g>
-      <text x="20" y="32.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">$ tail -f infra.log</text>
-      <text x="20" y="58.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">heartbeat ok</text>
-      <text x="20" y="84.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">scraping metrics...</text>
-      <text x="20" y="110.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#FF5C5C">✓ monitoring  ZABBIX</text>
-      <text x="20" y="136.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">queue drained</text>
-      <text x="20" y="162.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">cache warm</text>
-      <text x="20" y="188.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#FFA33C">✓ monitoring  GRAFANA</text>
-      <text x="20" y="214.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">sync complete</text>
-      <text x="20" y="240.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">latency p99 42ms</text>
-      <text x="20" y="266.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#B98CF0">✓ monitoring  DATADOG</text>
-      <text x="20" y="292.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">retry ok</text>
-      <text x="20" y="318.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">webhook delivered</text>
-      <text x="20" y="344.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#FFB020">✓ monitoring  AWS</text>
-      <text x="20" y="370.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">snapshot saved</text>
-      <text x="20" y="396.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">healthcheck 200</text>
-      <text x="20" y="422.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#FF7B99">✓ monitoring  N8N</text>
-      <text x="20" y="448.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">buffer flushed</text>
-      <text x="20" y="474.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">gc pause 3ms</text>
-      <text x="20" y="500.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#4FC3F7">✓ monitoring  DOCKER</text>
-      <text x="20" y="526.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">heartbeat ok</text>
-      <text x="20" y="552.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">scraping metrics...</text>
-      <text x="20" y="578.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#6BB6FF">✓ monitoring  PYTHON</text>
-      <text x="20" y="604.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">queue drained</text>
-      <text x="20" y="630.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">cache warm</text>
-      <text x="20" y="656.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#A78BDA">✓ monitoring  PHP</text>
-      <text x="20" y="682.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">sync complete</text>
-      <text x="20" y="708.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">latency p99 42ms</text>
-      <text x="20" y="734.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#5CD65C">✓ monitoring  NODE.JS</text>
+      <text x="20" y="32.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#38BDF8">» focus: tracing, métricas, service map — full-stack</text>
+      <text x="20" y="58.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">$ tail -f infra.log</text>
+      <text x="20" y="84.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">heartbeat ok</text>
+      <text x="20" y="110.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">scraping metrics...</text>
+      <text x="20" y="136.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#FF5C5C">✓ monitoring  ZABBIX</text>
+      <text x="20" y="162.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">queue drained</text>
+      <text x="20" y="188.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">cache warm</text>
+      <text x="20" y="214.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#FFA33C">✓ monitoring  GRAFANA</text>
+      <text x="20" y="240.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">sync complete</text>
+      <text x="20" y="266.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">latency p99 42ms</text>
+      <text x="20" y="292.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#B98CF0">✓ monitoring  DATADOG</text>
+      <text x="20" y="318.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">retry ok</text>
+      <text x="20" y="344.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">webhook delivered</text>
+      <text x="20" y="370.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#FFB020">✓ monitoring  AWS</text>
+      <text x="20" y="396.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">snapshot saved</text>
+      <text x="20" y="422.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">healthcheck 200</text>
+      <text x="20" y="448.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#FF7B99">✓ monitoring  N8N</text>
+      <text x="20" y="474.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">buffer flushed</text>
+      <text x="20" y="500.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">gc pause 3ms</text>
+      <text x="20" y="526.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#4FC3F7">✓ monitoring  DOCKER</text>
+      <text x="20" y="552.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">heartbeat ok</text>
+      <text x="20" y="578.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">scraping metrics...</text>
+      <text x="20" y="604.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#6BB6FF">✓ monitoring  PYTHON</text>
+      <text x="20" y="630.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">queue drained</text>
+      <text x="20" y="656.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">cache warm</text>
+      <text x="20" y="682.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#A78BDA">✓ monitoring  PHP</text>
+      <text x="20" y="708.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">sync complete</text>
+      <text x="20" y="734.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="400" fill="#6e7681">latency p99 42ms</text>
+      <text x="20" y="760.2" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600" fill="#5CD65C">✓ monitoring  NODE.JS</text>
       <animateTransform attributeName="transform" type="translate"
-        values="0,0;0,-26;0,-52;0,-78;0,-78;0,-104;0,-130;0,-156;0,-156;0,-182;0,-208;0,-234;0,-234;0,-260;0,-286;0,-312;0,-312;0,-338;0,-364;0,-390;0,-390;0,-416;0,-442;0,-468;0,-468;0,-494;0,-520;0,-546;0,-546;0,-572;0,-598;0,-624;0,-624;0,-650;0,-676;0,-702;0,-702"
-        keyTimes="0.00000;0.01502;0.03003;0.04505;0.11111;0.12613;0.14114;0.15616;0.22222;0.23724;0.25225;0.26727;0.33333;0.34835;0.36336;0.37838;0.44444;0.45946;0.47447;0.48949;0.55556;0.57057;0.58559;0.60060;0.66667;0.68168;0.69670;0.71171;0.77778;0.79279;0.80781;0.82282;0.88889;0.90390;0.91892;0.93393;1.00000"
-        dur="33.30s"
+        values="0,0;0,0;0,-26;0,-52;0,-78;0,-104;0,-104;0,-130;0,-156;0,-182;0,-182;0,-208;0,-234;0,-260;0,-260;0,-286;0,-312;0,-338;0,-338;0,-364;0,-390;0,-416;0,-416;0,-442;0,-468;0,-494;0,-494;0,-520;0,-546;0,-572;0,-572;0,-598;0,-624;0,-650;0,-650;0,-676;0,-702;0,-728;0,-728"
+        keyTimes="0.00000;0.10582;0.11905;0.13228;0.14550;0.15873;0.21693;0.23016;0.24339;0.25661;0.31481;0.32804;0.34127;0.35450;0.41270;0.42593;0.43915;0.45238;0.51058;0.52381;0.53704;0.55026;0.60847;0.62169;0.63492;0.64815;0.70635;0.71958;0.73280;0.74603;0.80423;0.81746;0.83069;0.84392;0.90212;0.91534;0.92857;0.94180;1.00000"
+        dur="37.80s"
         calcMode="linear"
         repeatCount="indefinite" />
     </g>

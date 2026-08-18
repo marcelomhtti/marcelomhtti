@@ -6,14 +6,6 @@
 
 <br>
 
-```
-$ whoami --format=json
-
-{
-  "focus": "tracing, métricas e service map para observabilidade full-stack"
-}
-```
-
 <div align="center">
 
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
