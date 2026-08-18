@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/log-scroll.svg" alt="log scrolando pela stack" />
+<img src="assets/trace-spans.svg" alt="trace de um alerta passando pela minha stack" />
 
 </div>
 
