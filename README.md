@@ -6,7 +6,9 @@
 
 <br>
 
-```json
+```
+$ whoami --format=json
+
 {
   "focus": "tracing, métricas e service map para observabilidade full-stack",
   "stack": ["Zabbix", "Grafana", "n8n", "Docker", "Python", "PHP", "Node.js"],
@@ -14,3 +16,8 @@
 }
 ```
 
+<div align="center">
+
+![status](https://img.shields.io/badge/status-online-38BDF8?style=flat-square&labelColor=0d1117)
+
+</div>
