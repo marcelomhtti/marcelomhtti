@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="contrib-heatmap.svg" alt="heatmap de contribuicoes" width="640" />
+
+<br>
+
 <img src="assets/trace-spans.svg" alt="trace de um alerta passando pela minha stack" />
 
 </div>
