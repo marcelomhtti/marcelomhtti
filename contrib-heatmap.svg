@@ -382,9 +382,9 @@
 <rect class="c" style="animation-delay:0.605s" x="862" y="124" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.616s" x="862" y="140" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.627s" x="862" y="156" width="13" height="13" rx="3" fill="#161b22"/>
-<rect class="c" style="animation-delay:0.572s" x="878" y="60" width="13" height="13" rx="3" fill="#161b22"/>
+<rect class="c" style="animation-delay:0.572s" x="878" y="60" width="13" height="13" rx="3" fill="#FF5C5C"/>
 <rect class="c" style="animation-delay:0.583s" x="878" y="76" width="13" height="13" rx="3" fill="#161b22"/>
-<text x="46" y="202" fill="#e6edf3">14 contributions in the last year</text>
+<text x="46" y="202" fill="#e6edf3">15 contributions in the last year</text>
 <text x="696" y="202" fill="#8b949e">Less</text>
 <rect x="736" y="191" width="13" height="13" rx="3" fill="#161b22"/>
 <rect x="752" y="191" width="13" height="13" rx="3" fill="#0d3a5c"/>
